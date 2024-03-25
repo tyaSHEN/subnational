@@ -5,14 +5,14 @@ This is a repository for our paper in [*Demography*](https://read.dukeupress.edu
 
 Details of the mathematical derivations and the demographic interpretation of the results are included in our paper.
 
-
+<br />
 
 "1. National popualtion growth (truncation)" decompose the national popualtion growth rate with different tranction ages.
 
 Note: For it to run, please register an account with HMD and input your HMD username and password.
 
 
-
+<br />
 
 
 "2. Subnational popualtion growth (Japan)" using Japan as an example, decompose subnational population growth based on 25 years of historical data.
