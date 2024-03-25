@@ -1,4 +1,3 @@
-
 library(tidyverse)
 library(HMDHFDplus)
 options(scipen = 999)
